@@ -1,9 +1,6 @@
 Null Renderer Plugin
 -----
 
-[![Build Status](https://travis-ci.org/icebreakersentertainment/null_renderer_plugin.svg?branch=master)](https://travis-ci.org/icebreakersentertainment/null_renderer_plugin)
-[![Build status](https://ci.appveyor.com/api/projects/status/2tqewfhy60mxv429/branch/master?svg=true)](https://ci.appveyor.com/project/icebreakersentertainment/ice-engine/branch/master)
-
 **Note**: This project is incredibly young, and isn't in any kind of production ready state. 
 
 To clone:
